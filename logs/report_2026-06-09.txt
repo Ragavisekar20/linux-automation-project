@@ -1,0 +1,24 @@
+===== SYSTEM REPORT =====
+
+Date:
+Tue Jun  9 09:26:53 PM IST 2026
+
+CPU Load:
+ 21:26:53 up 12:03,  1 user,  load average: 0.00, 0.11, 0.16
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.1Gi       2.8Gi       1.5Gi       609Mi       3.6Gi       4.3Gi
+Swap:          4.0Gi       940Ki       4.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.5G  3.2M  1.5G   1% /run
+/dev/nvme0n1p2  233G   15G  207G   7% /
+tmpfs           3.6G     0  3.6G   0% /dev/shm
+efivarfs        384K  346K   34K  92% /sys/firmware/efi/efivars
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.6G  4.8M  3.6G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  1.1G  6.4M  1.1G   1% /boot/efi
+tmpfs           729M   84K  729M   1% /run/user/1000
